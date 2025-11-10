@@ -5,4 +5,4 @@ this is our group project njay
 - eman
 - ajim
 - ajik
-  [view website] 
+[View Website] ---->  https://hujannnnn.github.io/Group-Website/
